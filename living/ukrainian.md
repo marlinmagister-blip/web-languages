@@ -31,6 +31,7 @@ Political Parties:
 
 Other:
 - https://uk.wikipedia.org
+- https://um.in.ua/
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Ukrainian_language
